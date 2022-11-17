@@ -19,18 +19,4 @@ PIL и др.) и нативно на Python + |с использованием N
 заранее определенной шкалы (переключение по нажатию клавиши). 
 Базовый алгоритм - колоризация
 
-## Старт Docker-контейнеров с Тарантулом
-
-    docker-compose up
-
-## Запуск сервиса
-
-    java -jar ./atmc-product-transfers-adapter-impl/build/libs/atmc-product-transfers-adapter-impl-*.jar
-
-## Веб-интерфейс доступных операций (Swagger)
-
-Доступен по ссылке: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-
-## Остановка Docker-контейнера с Тарантулом
-
-    docker-compose down
+## 
