@@ -1,0 +1,1050 @@
+=========================
+exp0
+=========================
+alex_net
+beer glass: 31.8%
+cup: 29.5%
+coffee mug: 10.5%
+eggnog: 10.3%
+candle: 3.4%
+res net 50
+beer glass: 17.1%
+cup: 10.9%
+coffee mug: 4.1%
+pitcher: 1.3%
+beer bottle: 1.2%
+vgg 16
+coffee mug: 42.9%
+beer glass: 28.1%
+cup: 8.4%
+candle: 7.1%
+saltshaker: 6.1%
+=========================
+exp1
+=========================
+alex_net
+golden retriever: 50.3%
+Labrador retriever: 46.5%
+kuvasz: 1.2%
+Great Pyrenees: 1.2%
+clumber: 0.2%
+res net 50
+golden retriever: 33.7%
+kuvasz: 3.8%
+Labrador retriever: 3.4%
+Great Pyrenees: 1.7%
+clumber: 1.1%
+vgg 16
+golden retriever: 89.1%
+Labrador retriever: 8.5%
+kuvasz: 0.7%
+clumber: 0.3%
+Great Pyrenees: 0.2%
+=========================
+exp2
+=========================
+alex_net
+Pomeranian: 99.9%
+chow: 0.1%
+gibbon: 0.0%
+Pekinese: 0.0%
+keeshond: 0.0%
+res net 50
+Pomeranian: 41.2%
+keeshond: 1.8%
+radio: 0.3%
+chow: 0.3%
+Samoyed: 0.3%
+vgg 16
+Pomeranian: 99.8%
+keeshond: 0.2%
+chow: 0.0%
+Pekinese: 0.0%
+Chihuahua: 0.0%
+=========================
+exp3
+=========================
+alex_net
+Norwegian elkhound: 25.5%
+malinois: 19.0%
+schipperke: 16.9%
+Staffordshire bullterrier: 10.0%
+chow: 5.9%
+res net 50
+malinois: 66.9%
+German shepherd: 1.1%
+Norwegian elkhound: 0.9%
+plunger: 0.4%
+Leonberg: 0.3%
+vgg 16
+malinois: 51.1%
+Staffordshire bullterrier: 24.6%
+American Staffordshire terrier: 14.0%
+Norwegian elkhound: 2.8%
+bull mastiff: 1.9%
+=========================
+exp4
+=========================
+alex_net
+basset: 52.3%
+beagle: 33.3%
+Walker hound: 4.7%
+basenji: 2.6%
+Ibizan hound: 2.6%
+res net 50
+beagle: 52.5%
+English foxhound: 4.2%
+basset: 3.3%
+Walker hound: 1.5%
+bloodhound: 0.6%
+vgg 16
+beagle: 87.4%
+basset: 10.1%
+Walker hound: 1.2%
+English foxhound: 0.8%
+Greater Swiss Mountain dog: 0.3%
+=========================
+exp5
+=========================
+alex_net
+German shepherd: 38.5%
+dhole: 30.4%
+malinois: 26.6%
+Brabancon griffon: 1.3%
+Irish terrier: 0.8%
+res net 50
+German shepherd: 36.8%
+malinois: 8.8%
+kelpie: 1.1%
+muzzle: 0.7%
+Rottweiler: 0.4%
+vgg 16
+malinois: 73.4%
+German shepherd: 24.7%
+red wolf: 1.3%
+dhole: 0.4%
+dingo: 0.2%
+=========================
+exp6
+=========================
+alex_net
+German shepherd: 47.1%
+malinois: 42.9%
+dingo: 4.2%
+timber wolf: 2.2%
+Norwegian elkhound: 1.4%
+res net 50
+German shepherd: 21.2%
+malinois: 4.9%
+muzzle: 0.4%
+kelpie: 0.4%
+dingo: 0.3%
+vgg 16
+German shepherd: 67.0%
+malinois: 32.3%
+Norwegian elkhound: 0.5%
+dingo: 0.1%
+kelpie: 0.0%
+=========================
+exp7
+=========================
+alex_net
+toy poodle: 81.1%
+teddy: 6.5%
+miniature poodle: 4.6%
+standard poodle: 4.4%
+Irish terrier: 1.0%
+res net 50
+miniature poodle: 20.8%
+toy poodle: 9.0%
+standard poodle: 1.8%
+stethoscope: 1.0%
+teddy: 0.8%
+vgg 16
+miniature poodle: 54.8%
+toy poodle: 43.7%
+standard poodle: 1.4%
+teddy: 0.2%
+Irish water spaniel: 0.0%
+=========================
+exp8
+=========================
+alex_net
+German shepherd: 97.2%
+malinois: 2.7%
+Leonberg: 0.0%
+briard: 0.0%
+muzzle: 0.0%
+res net 50
+German shepherd: 25.3%
+muzzle: 4.0%
+malinois: 1.3%
+Leonberg: 0.6%
+kelpie: 0.4%
+vgg 16
+German shepherd: 95.0%
+malinois: 4.6%
+kelpie: 0.1%
+dhole: 0.1%
+groenendael: 0.1%
+=========================
+exp9
+=========================
+alex_net
+collie: 94.6%
+Shetland sheepdog: 5.1%
+lion: 0.1%
+Pomeranian: 0.0%
+chow: 0.0%
+res net 50
+collie: 55.0%
+Shetland sheepdog: 5.5%
+keeshond: 0.4%
+briard: 0.3%
+Pomeranian: 0.2%
+vgg 16
+collie: 90.7%
+Shetland sheepdog: 8.1%
+Samoyed: 0.2%
+Australian terrier: 0.2%
+chow: 0.1%
+=========================
+exp10
+=========================
+alex_net
+lighter: 81.3%
+candle: 15.8%
+matchstick: 2.4%
+torch: 0.3%
+spotlight: 0.1%
+res net 50
+candle: 41.2%
+matchstick: 2.2%
+lighter: 2.0%
+torch: 1.8%
+langur: 0.2%
+vgg 16
+candle: 96.8%
+matchstick: 1.7%
+torch: 1.1%
+lighter: 0.3%
+spotlight: 0.0%
+=========================
+exp11
+=========================
+alex_net
+street sign: 11.0%
+digital clock: 7.9%
+web site: 5.5%
+Band Aid: 4.2%
+stopwatch: 3.3%
+res net 50
+envelope: 5.7%
+web site: 2.5%
+stopwatch: 2.1%
+microphone: 1.8%
+digital clock: 1.4%
+vgg 16
+envelope: 15.8%
+web site: 8.5%
+street sign: 8.4%
+rule: 6.5%
+rubber eraser: 5.9%
+=========================
+exp12
+=========================
+alex_net
+rule: 13.5%
+paintbrush: 11.1%
+purse: 10.6%
+matchstick: 8.7%
+wallet: 4.4%
+res net 50
+rubber eraser: 49.0%
+lighter: 3.0%
+pencil box: 1.7%
+pencil sharpener: 1.0%
+doormat: 0.4%
+vgg 16
+rubber eraser: 36.2%
+rule: 18.5%
+modem: 17.8%
+matchstick: 5.5%
+lighter: 3.1%
+=========================
+exp13
+=========================
+alex_net
+rubber eraser: 71.7%
+scale: 8.3%
+modem: 5.4%
+hard disc: 3.2%
+Band Aid: 2.1%
+res net 50
+rubber eraser: 81.8%
+modem: 1.2%
+radio: 1.0%
+matchstick: 1.0%
+packet: 0.4%
+vgg 16
+rubber eraser: 80.7%
+modem: 3.6%
+matchstick: 2.9%
+lighter: 2.3%
+Band Aid: 1.6%
+=========================
+exp14
+=========================
+alex_net
+parking meter: 29.6%
+backpack: 5.0%
+pay-phone: 3.5%
+sweatshirt: 3.0%
+ski mask: 2.3%
+res net 50
+beer bottle: 7.5%
+comic book: 5.0%
+mask: 2.8%
+book jacket: 2.6%
+wine bottle: 2.2%
+vgg 16
+punching bag: 29.4%
+mailbox: 8.4%
+wine bottle: 6.5%
+pay-phone: 4.8%
+beer bottle: 4.7%
+=========================
+exp15
+=========================
+alex_net
+mask: 19.8%
+maillot: 7.5%
+lipstick: 6.8%
+hand blower: 4.1%
+corkscrew: 3.5%
+res net 50
+comic book: 24.6%
+crash helmet: 1.9%
+quilt: 1.6%
+shower curtain: 1.5%
+shield: 1.2%
+vgg 16
+comic book: 74.5%
+mask: 8.3%
+shield: 3.4%
+book jacket: 2.7%
+lampshade: 1.4%
+=========================
+exp16
+=========================
+alex_net
+shield: 35.0%
+plow: 11.9%
+football helmet: 2.9%
+cuirass: 2.2%
+rugby ball: 1.7%
+res net 50
+comic book: 6.3%
+book jacket: 5.4%
+tray: 2.0%
+envelope: 1.9%
+pillow: 1.9%
+vgg 16
+bib: 25.5%
+castle: 19.3%
+jigsaw puzzle: 16.5%
+book jacket: 6.7%
+totem pole: 4.2%
+=========================
+exp17
+=========================
+alex_net
+bow tie: 36.4%
+neck brace: 8.8%
+beer glass: 7.5%
+sunscreen: 4.4%
+swimming trunks: 2.6%
+res net 50
+suit: 13.8%
+Windsor tie: 6.0%
+bow tie: 3.6%
+bolo tie: 2.0%
+military uniform: 1.8%
+vgg 16
+bow tie: 27.8%
+Windsor tie: 24.6%
+suit: 18.4%
+cowboy hat: 6.4%
+Band Aid: 4.2%
+=========================
+exp18
+=========================
+alex_net
+tabby: 44.4%
+Persian cat: 37.1%
+tiger cat: 6.8%
+Egyptian cat: 2.3%
+tiger: 1.6%
+res net 50
+Persian cat: 39.7%
+tabby: 1.4%
+worm fence: 1.1%
+crate: 0.7%
+picket fence: 0.7%
+vgg 16
+tabby: 30.4%
+tiger cat: 16.3%
+lens cap: 9.3%
+fox squirrel: 5.8%
+corn: 3.8%
+=========================
+exp19
+=========================
+alex_net
+sewing machine: 23.5%
+barber chair: 17.0%
+golfcart: 16.8%
+washer: 10.3%
+washbasin: 7.0%
+res net 50
+medicine chest: 10.5%
+washbasin: 7.7%
+shower curtain: 6.6%
+washer: 2.0%
+soap dispenser: 1.3%
+vgg 16
+washbasin: 56.4%
+washer: 19.0%
+paper towel: 4.8%
+toilet seat: 3.1%
+toilet tissue: 3.0%
+=========================
+exp20
+=========================
+alex_net
+Egyptian cat: 15.6%
+laptop: 14.8%
+scale: 13.6%
+screen: 10.3%
+tabby: 7.9%
+res net 50
+Persian cat: 19.8%
+tabby: 2.2%
+window screen: 1.6%
+tiger cat: 1.5%
+refrigerator: 1.0%
+vgg 16
+tabby: 33.7%
+Persian cat: 8.7%
+tiger cat: 7.7%
+refrigerator: 5.7%
+syringe: 5.4%
+=========================
+exp21
+=========================
+alex_net
+malamute: 68.0%
+collie: 6.5%
+Egyptian cat: 3.4%
+Shetland sheepdog: 3.0%
+Bernese mountain dog: 1.5%
+res net 50
+Egyptian cat: 57.1%
+tabby: 1.6%
+tiger cat: 1.0%
+Siamese cat: 0.9%
+doormat: 0.5%
+vgg 16
+Egyptian cat: 96.7%
+Siamese cat: 2.6%
+window screen: 0.4%
+doormat: 0.2%
+tabby: 0.0%
+=========================
+exp22
+=========================
+alex_net
+space heater: 22.6%
+Boston bull: 9.2%
+tiger cat: 8.4%
+computer keyboard: 7.8%
+basenji: 7.3%
+res net 50
+paper towel: 9.0%
+Egyptian cat: 5.6%
+radiator: 3.4%
+bow tie: 3.4%
+space heater: 3.2%
+vgg 16
+space heater: 22.0%
+paper towel: 15.5%
+tiger cat: 10.6%
+Egyptian cat: 10.0%
+tabby: 5.7%
+=========================
+exp23
+=========================
+alex_net
+Egyptian cat: 25.8%
+tabby: 21.8%
+malamute: 9.2%
+tiger cat: 5.2%
+Persian cat: 4.6%
+res net 50
+space heater: 60.6%
+Egyptian cat: 5.6%
+tabby: 4.6%
+tiger cat: 1.8%
+stove: 0.7%
+vgg 16
+tabby: 41.7%
+space heater: 15.1%
+tiger cat: 12.2%
+Egyptian cat: 9.5%
+radiator: 4.4%
+=========================
+exp24
+=========================
+alex_net
+Egyptian cat: 51.4%
+tabby: 25.3%
+tiger cat: 12.1%
+lynx: 5.1%
+bow tie: 2.1%
+res net 50
+tabby: 6.9%
+Egyptian cat: 6.7%
+hamper: 5.6%
+window screen: 4.9%
+tiger cat: 2.8%
+vgg 16
+Egyptian cat: 34.4%
+tabby: 29.0%
+tiger cat: 9.4%
+bow tie: 2.3%
+window screen: 1.5%
+=========================
+exp25
+=========================
+alex_net
+tabby: 71.1%
+tiger cat: 9.0%
+lynx: 6.3%
+Persian cat: 5.5%
+Egyptian cat: 5.2%
+res net 50
+Persian cat: 38.0%
+tiger cat: 7.0%
+tabby: 6.3%
+refrigerator: 0.6%
+Egyptian cat: 0.4%
+vgg 16
+Persian cat: 63.4%
+tabby: 31.6%
+tiger cat: 2.7%
+lynx: 1.5%
+Egyptian cat: 0.5%
+=========================
+exp26
+=========================
+alex_net
+tiger cat: 64.0%
+tabby: 13.2%
+Egyptian cat: 10.2%
+computer keyboard: 1.6%
+Christmas stocking: 1.0%
+res net 50
+tabby: 21.1%
+tiger cat: 11.9%
+Egyptian cat: 10.2%
+plastic bag: 2.5%
+space heater: 0.5%
+vgg 16
+tabby: 48.3%
+tiger cat: 28.0%
+Egyptian cat: 20.3%
+feather boa: 0.9%
+plastic bag: 0.3%
+=========================
+exp27
+=========================
+alex_net
+Border terrier: 10.1%
+Irish setter: 7.3%
+Chihuahua: 6.1%
+toy poodle: 6.0%
+Brabancon griffon: 5.5%
+res net 50
+Egyptian cat: 12.7%
+tiger cat: 6.4%
+tabby: 5.0%
+sock: 2.8%
+Siamese cat: 2.2%
+vgg 16
+tabby: 53.3%
+Egyptian cat: 21.7%
+tiger cat: 20.6%
+refrigerator: 0.6%
+shower curtain: 0.6%
+=========================
+exp28
+=========================
+alex_net
+hand-held computer: 40.7%
+cellular telephone: 28.9%
+remote control: 18.0%
+iPod: 5.3%
+dial telephone: 2.6%
+res net 50
+cellular telephone: 16.6%
+remote control: 14.4%
+hand-held computer: 3.8%
+radio: 1.7%
+mouse: 0.7%
+vgg 16
+remote control: 70.9%
+hand-held computer: 10.2%
+cellular telephone: 8.2%
+radio: 3.6%
+scale: 2.3%
+=========================
+exp29
+=========================
+alex_net
+dial telephone: 99.7%
+analog clock: 0.1%
+scale: 0.0%
+hand blower: 0.0%
+can opener: 0.0%
+res net 50
+dial telephone: 26.3%
+toilet tissue: 0.3%
+Band Aid: 0.3%
+pay-phone: 0.2%
+wooden spoon: 0.2%
+vgg 16
+dial telephone: 100.0%
+pay-phone: 0.0%
+analog clock: 0.0%
+stopwatch: 0.0%
+digital watch: 0.0%
+=========================
+exp30
+=========================
+alex_net
+bib: 6.9%
+envelope: 6.4%
+pinwheel: 6.0%
+flagpole: 3.7%
+jersey: 3.5%
+res net 50
+jersey: 2.9%
+coffee mug: 1.8%
+hair spray: 1.7%
+web site: 1.5%
+mixing bowl: 1.4%
+vgg 16
+envelope: 23.7%
+web site: 7.7%
+rubber eraser: 2.9%
+packet: 2.7%
+binder: 2.6%
+=========================
+exp31
+=========================
+alex_net
+espresso: 99.8%
+chocolate sauce: 0.1%
+potter's wheel: 0.0%
+potpie: 0.0%
+cup: 0.0%
+res net 50
+espresso: 25.9%
+earthstar: 1.0%
+hen-of-the-woods: 0.9%
+cup: 0.9%
+consomme: 0.8%
+vgg 16
+espresso: 93.4%
+consomme: 1.5%
+cup: 1.4%
+chocolate sauce: 1.2%
+espresso maker: 0.8%
+=========================
+exp32
+=========================
+alex_net
+cup: 46.8%
+espresso: 19.5%
+consomme: 15.4%
+mortar: 4.5%
+soup bowl: 2.3%
+res net 50
+espresso: 23.0%
+cup: 9.1%
+consomme: 6.3%
+eggnog: 4.4%
+espresso maker: 2.1%
+vgg 16
+espresso: 45.2%
+cup: 38.7%
+consomme: 7.8%
+coffee mug: 2.6%
+espresso maker: 2.6%
+=========================
+exp33
+=========================
+alex_net
+measuring cup: 23.7%
+beer glass: 20.5%
+goblet: 13.6%
+drum: 12.4%
+bucket: 11.2%
+res net 50
+beer glass: 43.4%
+measuring cup: 3.5%
+pitcher: 2.3%
+cup: 1.8%
+whiskey jug: 1.5%
+vgg 16
+beer glass: 88.3%
+eggnog: 4.2%
+cup: 1.6%
+goblet: 1.3%
+coffee mug: 1.1%
+=========================
+exp34
+=========================
+alex_net
+beer glass: 93.5%
+pitcher: 1.4%
+measuring cup: 1.2%
+cocktail shaker: 0.9%
+coffee mug: 0.8%
+res net 50
+beer glass: 48.3%
+measuring cup: 2.3%
+cup: 1.5%
+water jug: 1.3%
+eggnog: 1.2%
+vgg 16
+beer glass: 92.0%
+water jug: 2.7%
+pitcher: 1.8%
+cup: 1.5%
+measuring cup: 0.6%
+=========================
+exp35
+=========================
+alex_net
+pickelhaube: 20.4%
+cuirass: 7.6%
+breastplate: 6.2%
+trombone: 5.5%
+beer glass: 5.1%
+res net 50
+beer glass: 26.1%
+beaker: 4.1%
+pill bottle: 2.4%
+eggnog: 2.0%
+goblet: 1.9%
+vgg 16
+beer glass: 77.1%
+goblet: 3.3%
+cocktail shaker: 2.1%
+coffee mug: 1.7%
+water jug: 1.1%
+=========================
+exp36
+=========================
+alex_net
+tusker: 53.6%
+African elephant: 35.8%
+Indian elephant: 10.6%
+triceratops: 0.0%
+Arabian camel: 0.0%
+res net 50
+tusker: 31.4%
+African elephant: 16.8%
+Indian elephant: 7.2%
+barn spider: 0.1%
+patas: 0.1%
+vgg 16
+tusker: 68.8%
+African elephant: 28.8%
+Indian elephant: 2.4%
+triceratops: 0.0%
+Arabian camel: 0.0%
+=========================
+exp37
+=========================
+alex_net
+tusker: 51.5%
+African elephant: 44.0%
+Indian elephant: 4.4%
+Great Dane: 0.1%
+bison: 0.0%
+res net 50
+African elephant: 27.7%
+tusker: 27.5%
+Indian elephant: 3.6%
+bison: 0.1%
+Sussex spaniel: 0.1%
+vgg 16
+African elephant: 56.1%
+tusker: 35.8%
+Indian elephant: 8.1%
+Arabian camel: 0.0%
+warthog: 0.0%
+=========================
+exp38
+=========================
+alex_net
+African elephant: 42.9%
+tusker: 30.9%
+Indian elephant: 22.5%
+warthog: 1.5%
+Mexican hairless: 0.5%
+res net 50
+African elephant: 22.6%
+tusker: 19.0%
+Indian elephant: 4.0%
+triceratops: 0.2%
+hippopotamus: 0.2%
+vgg 16
+African elephant: 39.5%
+tusker: 31.9%
+Indian elephant: 28.4%
+triceratops: 0.0%
+bull mastiff: 0.0%
+=========================
+exp39
+=========================
+alex_net
+African elephant: 81.0%
+tusker: 16.3%
+Indian elephant: 2.7%
+Arabian camel: 0.0%
+megalith: 0.0%
+res net 50
+tusker: 29.8%
+African elephant: 18.8%
+Indian elephant: 0.9%
+mailbag: 0.2%
+parachute: 0.1%
+vgg 16
+African elephant: 68.9%
+tusker: 30.2%
+Indian elephant: 1.0%
+triceratops: 0.0%
+bison: 0.0%
+=========================
+exp40
+=========================
+alex_net
+kite: 63.6%
+triceratops: 14.7%
+ibex: 7.2%
+electric ray: 1.0%
+llama: 1.0%
+res net 50
+gazelle: 25.2%
+impala: 21.7%
+hartebeest: 3.8%
+ibex: 1.9%
+llama: 0.6%
+vgg 16
+ibex: 72.0%
+hartebeest: 9.3%
+gazelle: 4.3%
+bighorn: 4.0%
+impala: 3.5%
+=========================
+exp41
+=========================
+alex_net
+gazelle: 48.3%
+impala: 36.9%
+hartebeest: 12.1%
+Ibizan hound: 1.2%
+Rhodesian ridgeback: 0.5%
+res net 50
+gazelle: 34.6%
+impala: 4.4%
+hartebeest: 0.8%
+weasel: 0.2%
+barn spider: 0.1%
+vgg 16
+gazelle: 61.4%
+impala: 38.5%
+hartebeest: 0.1%
+Saluki: 0.0%
+Italian greyhound: 0.0%
+=========================
+exp42
+=========================
+alex_net
+gazelle: 91.8%
+impala: 7.5%
+hartebeest: 0.7%
+Ibizan hound: 0.0%
+ibex: 0.0%
+res net 50
+gazelle: 34.9%
+impala: 5.7%
+hartebeest: 1.4%
+hare: 0.2%
+weasel: 0.1%
+vgg 16
+gazelle: 92.4%
+impala: 7.6%
+hartebeest: 0.0%
+ibex: 0.0%
+dhole: 0.0%
+=========================
+exp43
+=========================
+alex_net
+Dandie Dinmont: 25.5%
+Norwich terrier: 8.2%
+Norfolk terrier: 7.8%
+briard: 6.6%
+cairn: 6.2%
+res net 50
+ibex: 2.5%
+gazelle: 2.2%
+Sealyham terrier: 1.8%
+standard schnauzer: 1.7%
+miniature schnauzer: 1.6%
+vgg 16
+Dandie Dinmont: 14.2%
+ox: 13.7%
+Sealyham terrier: 11.8%
+hartebeest: 8.5%
+Australian terrier: 6.9%
+=========================
+exp44
+=========================
+alex_net
+palace: 81.9%
+monastery: 7.6%
+bell cote: 2.2%
+triumphal arch: 1.9%
+prison: 1.3%
+res net 50
+monastery: 31.3%
+palace: 23.4%
+prison: 1.3%
+triumphal arch: 0.7%
+castle: 0.4%
+vgg 16
+monastery: 60.1%
+palace: 20.3%
+bell cote: 11.6%
+church: 3.8%
+castle: 1.5%
+=========================
+exp45
+=========================
+alex_net
+goldfinch: 58.2%
+toucan: 4.0%
+sulphur butterfly: 3.7%
+partridge: 2.8%
+lorikeet: 2.5%
+res net 50
+brambling: 12.8%
+jacamar: 9.1%
+partridge: 4.0%
+lorikeet: 3.1%
+indigo bunting: 1.3%
+vgg 16
+brambling: 21.1%
+goldfinch: 14.6%
+whiptail: 8.0%
+jacamar: 6.5%
+African chameleon: 4.2%
+=========================
+exp46
+=========================
+alex_net
+hand blower: 11.3%
+ocarina: 8.2%
+axolotl: 8.0%
+piggy bank: 6.8%
+maraca: 6.2%
+res net 50
+macaw: 8.3%
+partridge: 2.4%
+African grey: 2.1%
+indigo bunting: 1.8%
+brambling: 1.6%
+vgg 16
+African grey: 36.0%
+prairie chicken: 14.8%
+kite: 8.1%
+rock beauty: 5.2%
+terrapin: 5.1%
+=========================
+exp47
+=========================
+alex_net
+yellow lady's slipper: 16.3%
+spoonbill: 8.4%
+mantis: 8.4%
+white stork: 7.0%
+macaw: 6.8%
+res net 50
+jacamar: 16.7%
+lorikeet: 13.3%
+macaw: 5.3%
+bee eater: 2.8%
+partridge: 2.7%
+vgg 16
+green mamba: 12.6%
+vine snake: 9.9%
+yellow lady's slipper: 6.5%
+lorikeet: 6.0%
+macaw: 4.4%
+=========================
+exp48
+=========================
+alex_net
+macaw: 99.6%
+lorikeet: 0.3%
+cock: 0.0%
+European gallinule: 0.0%
+bee eater: 0.0%
+res net 50
+macaw: 40.0%
+lorikeet: 1.7%
+jacamar: 0.5%
+African grey: 0.4%
+goldfish: 0.4%
+vgg 16
+macaw: 65.8%
+lorikeet: 32.6%
+goldfinch: 0.5%
+goldfish: 0.3%
+brambling: 0.2%
+=========================
+exp49
+=========================
+alex_net
+macaw: 99.9%
+lorikeet: 0.1%
+jay: 0.0%
+hornbill: 0.0%
+brambling: 0.0%
+res net 50
+macaw: 39.9%
+African grey: 0.2%
+sulphur-crested cockatoo: 0.2%
+lorikeet: 0.2%
+barn spider: 0.2%
+vgg 16
+macaw: 100.0%
+lorikeet: 0.0%
+feather boa: 0.0%
+peacock: 0.0%
+jay: 0.0%
