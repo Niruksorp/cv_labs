@@ -30,7 +30,7 @@ def drawMatches(img1, kp1, img2, kp2, matches):
 #%%
 if __name__ == '__main__':
     img1 = cv2.imread('228.jpg')        # queryImage
-    img2 = cv2.imread('12.jpg')         # trainImage
+    img2 = cv2.imread('1.jpg')         # trainImage
     # Initiate SIFT detector
     sift = cv2.SIFT_create()
     # find the keypoints and descriptors with SIFT
