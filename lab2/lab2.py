@@ -44,8 +44,8 @@ def drawMatches(img1, kp1, img2, kp2, matches):
 
 #%%
 if __name__ == '__main__':
-    img1 = cv2.imread('223.jpg')        # queryImage
-    img2 = cv2.imread('222.jpg')         # trainImage
+    img1 = cv2.imread('img_temp.jpg')        # queryImage
+    img2 = cv2.imread('img.png')         # trainImage
     # Initiate SIFT detector
     sift = cv2.SIFT_create()
     # find the keypoints and descriptors with SIFT

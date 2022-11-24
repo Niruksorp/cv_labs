@@ -52,7 +52,7 @@ def create_alex_net_model(weights, model):
     from torchvision.models import alexnet, ResNet50_Weights, AlexNet_Weights
 
     # Step 1: Initialize model with the best available weights
-    weights = AlexNet_Weights.IMAGENET1K_V1
+    weights = AlexNet_Weights.DEFAULT
     model = alexnet(weights=weights)
     model.eval()
 
@@ -73,7 +73,7 @@ def create_vgg16_model():
     from torchvision.models import vgg16, ResNet50_Weights, VGG16_Weights
 
     # Step 1: Initialize model with the best available weights
-    weights = VGG16_Weights.IMAGENET1K_V1
+    weights = VGG16_Weights.DEFAULT
     model = vgg16(weights=weights)
     model.eval()
 
@@ -83,17 +83,17 @@ def create_vgg16_model():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    model_alex_net = create_model(AlexNet_Weights.IMAGENET1K_V1, alexnet)
+    model_alex_net = create_model(AlexNet_Weights.DEFAULT, alexnet)
     model_res_net = create_model(ResNet50_Weights.DEFAULT, resnet50)
-    model_vgg_16 = create_model(VGG16_Weights.IMAGENET1K_V1, vgg16)
+    model_vgg_16 = create_model(VGG16_Weights.DEFAULT, vgg16)
     for i in range(50):
         img = read_image(i+1)
         print("=========================")
         print(f"exp{i}")
         print("=========================")
-        pred = create_predict(AlexNet_Weights.IMAGENET1K_V1, img, model_alex_net)
-        show_pred(pred, "alex_net", AlexNet_Weights.IMAGENET1K_V1)
+        pred = create_predict(AlexNet_Weights.DEFAULT, img, model_alex_net)
+        show_pred(pred, "alex_net", AlexNet_Weights.DEFAULT)
         pred = create_predict(ResNet50_Weights.DEFAULT, img, model_res_net)
         show_pred(pred, "res net 50", ResNet50_Weights.DEFAULT)
-        pred = create_predict(VGG16_Weights.IMAGENET1K_V1, img, model_vgg_16)
-        show_pred(pred, "vgg 16", VGG16_Weights.IMAGENET1K_V1)
+        pred = create_predict(VGG16_Weights.DEFAULT, img, model_vgg_16)
+        show_pred(pred, "vgg 16", VGG16_Weights.DEFAULT)
