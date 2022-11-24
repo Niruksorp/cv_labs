@@ -86,10 +86,10 @@ if __name__ == '__main__':
     model_alex_net = create_model(AlexNet_Weights.IMAGENET1K_V1, alexnet)
     model_res_net = create_model(ResNet50_Weights.DEFAULT, resnet50)
     model_vgg_16 = create_model(VGG16_Weights.IMAGENET1K_V1, vgg16)
-    for i in range(50):
-        img = read_image(i)
+    for i in range(8):
+        img = read_image(i+1)
         print("=========================")
-        print("exp{i}")
+        print(f"exp{i}")
         print("=========================")
         pred = create_predict(AlexNet_Weights.IMAGENET1K_V1, img, model_alex_net)
         show_pred(pred, "alex_net", AlexNet_Weights.IMAGENET1K_V1)

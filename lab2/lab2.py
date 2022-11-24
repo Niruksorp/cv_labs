@@ -15,6 +15,21 @@ def drawMatches(img1, kp1, img2, kp2, matches):
     out[:rows2,cols1:] = np.dstack([img2])
     left_up = 0,0
     right_dowm = 0,3000
+
+    src_pts = np.float32([kp1[m.queryIdx].pt for m in matches]).reshape(-1, 1, 2)
+    dst_pts = np.float32([kp2[m.trainIdx].pt for m in matches]).reshape(-1, 1, 2)
+
+    M = cv2.findHomography(src_pts, dst_pts, cv2.RANSAC, 5.0)[0]
+
+    # Draw detected template in scene image
+    pts = np.float32([[0, 0],
+                      [0, rows1 - 1],
+                      [cols1 - 1, rows1 - 1],
+                      [cols1 - 1, 0]]).reshape(-1, 1, 2)
+    dst = cv2.perspectiveTransform(pts, M)
+
+    cv2.polylines(out, [np.int32(dst)], True, 255, 3, cv2.LINE_AA)
+
     for mat in matches:
         img1_idx = mat.queryIdx
         img2_idx = mat.trainIdx
@@ -29,8 +44,8 @@ def drawMatches(img1, kp1, img2, kp2, matches):
 
 #%%
 if __name__ == '__main__':
-    img1 = cv2.imread('228.jpg')        # queryImage
-    img2 = cv2.imread('1.jpg')         # trainImage
+    img1 = cv2.imread('223.jpg')        # queryImage
+    img2 = cv2.imread('222.jpg')         # trainImage
     # Initiate SIFT detector
     sift = cv2.SIFT_create()
     # find the keypoints and descriptors with SIFT
