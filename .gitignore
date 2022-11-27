@@ -1,0 +1,15 @@
+# folders
+
+## IDEs
+.idea/
+
+## Cache
+__pycache__
+.ipynb_checkpoints
+
+## Mac OS
+.DS_Store
+
+## Configs
+.env
+config/*.json
